@@ -5,7 +5,7 @@
   "main": "server/app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MigsAdventure/Tripify.git"
+    "url": "https://github.com/ziyaemanet/tripify.git"
   },
   "scripts": {
     "start": "node server/app.js"
